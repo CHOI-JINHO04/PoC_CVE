@@ -1,5 +1,5 @@
 #/usr/bin/bash
-#jackson
+# made by jackson
 
 import requests
 import sys
